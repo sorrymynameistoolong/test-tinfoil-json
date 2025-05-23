@@ -1,4 +1,9 @@
 {
-    "locations": ["https://nx.ghostland.at","https://tinfoilultranx.ru/tinfoil"],
-    "success": "萬能服務器\n\nhttps://github.com/sorrymynameistoolong/tinfoil-json"
+  "locations": [
+    "tinfoil.ultranx.ru/tinfoil",
+    "https://nx.ghostland.at",
+    "nx-retro.ghostland.at",
+    "https://tinfoilultranx.ru/tinfoil"
+  ],
+  "success": "萬能服務器\n\nhttps://github.com/sorrymynameistoolong/tinfoil-json"
 }
