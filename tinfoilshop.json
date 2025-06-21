@@ -19,11 +19,6 @@
       "url": "https://nx-saves.ghostland.at",
       "title": "NX Shared Saves",
       "action": "add"
-    },
-    {
-      "url": "https://tinfoil.ultranx.ru/tinfoil",
-      "title": "Ultra NX",
-      "action": "add"
     }
   ],
   "success": "萬能服務器\n\nhttps://github.com/sorrymynameistoolong/tinfoil-json"
