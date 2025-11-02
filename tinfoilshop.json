@@ -1,6 +1,11 @@
 {
   "locations": [
     {
+      "url": "https://tinfoil.ultranx.ru/tinfoil",
+      "title": "Ultra NX",
+      "action": "add"
+    },
+    {
       "url": "https://nx.ghostland.at",
       "title": "Ghost eShop PUBLIC",
       "action": "add"
